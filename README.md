@@ -16,6 +16,8 @@ Welcome to the Answers wiki!
 
 ####Valuable problem:
 
+Scramble String
+
 Interleaving String
 
 Maximal Rectangle
