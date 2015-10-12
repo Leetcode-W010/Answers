@@ -16,6 +16,8 @@ Welcome to the Answers wiki!
 
 ####Valuable problem:
 
+Ugly Number II
+
 Scramble String
 
 Interleaving String
