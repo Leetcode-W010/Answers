@@ -16,6 +16,8 @@ Welcome to the Answers wiki!
 
 ####Valuable problem:
 
+Word Break
+
 Best Time to Buy and Sell Stock III
 
 Ugly Number II
