@@ -16,6 +16,8 @@ Welcome to the Answers wiki!
 
 ####Valuable problem:
 
+Best Time to Buy and Sell Stock III
+
 Ugly Number II
 
 Scramble String
