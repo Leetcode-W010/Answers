@@ -63,3 +63,7 @@ Clone Graph
 #### advanced algorithm
 
 Recover Binary Search Tree
+
+#### trick
+
+Copy List with Random Pointer, Solution
