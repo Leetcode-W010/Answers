@@ -64,6 +64,8 @@ Clone Graph
 
 Max Points on a Line
 
+Fraction to Recurring Decimal
+
 #### advanced algorithm
 
 Recover Binary Search Tree
@@ -73,3 +75,4 @@ Recover Binary Search Tree
 Copy List with Random Pointer, Solution
 
 Linked List Cycle II
+
