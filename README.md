@@ -16,6 +16,8 @@ Welcome to the Answers wiki!
 
 ####Valuable problem:
 
+H-Index II
+
 Gas Station
 
 Palindrome Partitioning II
@@ -59,6 +61,8 @@ Wildcard Matching
 #### detail
 
 Clone Graph
+
+Max Points on a Line
 
 #### advanced algorithm
 
