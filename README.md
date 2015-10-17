@@ -16,6 +16,8 @@ Welcome to the Answers wiki!
 
 ####Valuable problem:
 
+Contains Duplicate III
+
 H-Index II
 
 Gas Station
