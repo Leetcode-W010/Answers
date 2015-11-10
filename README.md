@@ -15,6 +15,7 @@ http://www.cnblogs.com/grandyang/p/4606334.html
 Welcome to the Answers wiki!
 
 ####Valuable problem:
+Flip Game II
 
 Contains Duplicate III
 
